@@ -1,3 +1,14 @@
+---
+name: clash-toggle
+description: "Toggle Clash Verge VPN on/off by controlling Windows system proxy. No admin privileges required. Use when user mentions VPN, Clash, proxy, 翻墙, 代理, 科学上网, 开启VPN, 关闭VPN, 开关Clash etc."
+version: 1.0.0
+author: id5463
+license: MIT
+platforms: [windows]
+metadata:
+  tags: [vpn, clash, proxy, network]
+---
+
 # Clash VPN Toggle
 
 Toggle Clash Verge VPN on/off by controlling the Windows system proxy. No admin privileges required.
